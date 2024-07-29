@@ -13,9 +13,9 @@
     "lib/"
   ],
   "dependencies": {
-    "invariant": "^2.2.4",
-    "react-fast-compare": "^3.2.2",
-    "shallowequal": "^1.1.0"
+    "invariant": "2.2.4",
+    "react-fast-compare": "3.2.2",
+    "shallowequal": "1.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "18.4.3",
